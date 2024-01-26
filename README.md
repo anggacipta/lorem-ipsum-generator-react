@@ -7,7 +7,7 @@ Website with unique generator lorem ipsum. If you feel boring with just lorem ip
 
 ## Steps
 
-### How to run
+#### How to run
 
 1. Run `npm install`
 2. Run `npm run dev`
