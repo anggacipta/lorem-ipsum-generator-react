@@ -1,5 +1,6 @@
 # Lorem Ipsum Generator
 Website with unique generator lorem ipsum. If you feel boring with just lorem ipsum, try this one.
+
 [Try](https://lorsum-gen.netlify.app/)
 
 ## Figma URL
